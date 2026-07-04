@@ -15,7 +15,7 @@ O projeto consiste no desenvolvimento de um robô seguidor de linha, capaz de se
 |-----------|----------|----------|
 | ARDUINO    |ARD. UNO ATMEGA 328| 1 xR$36,99   |
 | PROTOBOARD    |  PROT. 400 PONTOS  | 1 x R$19,00|
-| SENSOR INFRAVEMELHO    | S. INFRAVERMELHO TCRT5000   | 2 x R$13,90   |
+| SENSOR INFRAVEMELHO    | S. INFRAVERMELHO TCRT5000   | 3 x R$13,90   |
 |SENSOR ULTRASSÔNICO|S. ULTRASSOM HC-SR04|1 x R$15,54|
 | MOTOR    | MOT. DC 3-6V EIXO DUPLO   | 2 x R$14,99   |
 | RODAS    | RODA DE BORRACHA X4| 2 x R$7,00   |
